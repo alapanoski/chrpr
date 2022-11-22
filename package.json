@@ -1,0 +1,20 @@
+{
+  "name": "chrpr",
+  "version": "0.0.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "description": "",
+  "main": "",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "turbo": "^1.6.3",
+    "husky": "^8.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+packages:
+  - "apps/chrpr-client"
+  - "apps/chrpr-server"

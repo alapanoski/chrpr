@@ -1,0 +1,17 @@
+.chrp {
+  &-header {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+
+    &-displayname {
+      font-weight: bold;
+    }
+  }
+
+  &-footer {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+  }
+}
